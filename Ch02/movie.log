@@ -1,0 +1,38 @@
+2020-07-30 15:21:38,930 - movie_logger - INFO - 크롬 가상브라우저 실행 완료
+2020-07-30 15:21:38,932 - movie_logger - INFO - 첫번째 while 시작
+2020-07-30 15:21:39,932 - movie_logger - INFO - 두번째 while 시작
+2020-07-30 15:21:43,940 - movie_logger - INFO - 네이버 영화 랭킹 평점순 이동 page=1
+2020-07-30 15:21:44,619 - movie_logger - INFO - 영화 랭킹 클릭
+2020-07-30 15:21:45,111 - movie_logger - INFO - 영화 평점 탭 클릭
+2020-07-30 15:21:45,147 - movie_logger - INFO - 영화 제목 : 그린 북
+2020-07-30 15:21:45,179 - movie_logger - INFO - iframe 전환
+2020-07-30 15:21:45,355 - movie_logger - INFO - 최신순 클릭
+2020-07-30 15:21:45,535 - movie_logger - INFO - 현재 페이지 : 1
+2020-07-30 16:18:28,696 - movie_logger - INFO - 크롬 가상브라우저 실행 완료
+2020-07-30 16:18:28,698 - movie_logger - INFO - 첫번째 while 시작
+2020-07-30 16:18:29,698 - movie_logger - INFO - 두번째 while 시작
+2020-07-30 16:18:34,098 - movie_logger - INFO - 네이버 영화 랭킹 평점순 이동 page=1
+2020-07-30 16:18:34,780 - movie_logger - INFO - 영화 랭킹 클릭
+2020-07-30 16:18:35,280 - movie_logger - INFO - 영화 평점 탭 클릭
+2020-07-30 16:18:35,312 - movie_logger - INFO - 영화 제목 : 그린 북
+2020-07-30 16:18:35,345 - movie_logger - INFO - iframe 전환
+2020-07-30 16:18:35,522 - movie_logger - INFO - 최신순 클릭
+2020-07-30 16:21:36,775 - movie_logger - INFO - 크롬 가상브라우저 실행 완료
+2020-07-30 16:21:36,777 - movie_logger - INFO - 첫번째 while 시작
+2020-07-30 16:21:37,778 - movie_logger - INFO - 두번째 while 시작
+2020-07-30 16:21:38,344 - movie_logger - INFO - 네이버 영화 랭킹 평점순 이동 page=1
+2020-07-30 16:21:38,986 - movie_logger - INFO - 영화 랭킹 클릭
+2020-07-30 16:21:39,462 - movie_logger - INFO - 영화 평점 탭 클릭
+2020-07-30 16:21:39,488 - movie_logger - INFO - 영화 제목 : 그린 북
+2020-07-30 16:21:39,517 - movie_logger - INFO - iframe 전환
+2020-07-30 16:21:39,690 - movie_logger - INFO - 최신순 클릭
+2020-07-30 17:14:10,420 - movie_logger - INFO - 크롬 가상브라우저 실행 완료
+2020-07-30 17:14:11,515 - movie_logger - INFO - 첫번째 while 시작
+2020-07-30 17:14:12,516 - movie_logger - INFO - 두번째 while 시작
+2020-07-30 17:14:13,149 - movie_logger - INFO - 네이버 영화 랭킹 평점순 이동 page=1
+2020-07-30 17:14:13,985 - movie_logger - INFO - 영화 랭킹 클릭
+2020-07-30 17:14:14,541 - movie_logger - INFO - 영화 평점 탭 클릭
+2020-07-30 17:14:14,578 - movie_logger - INFO - 영화 제목 : 그린 북
+2020-07-30 17:14:14,605 - movie_logger - INFO - iframe 전환
+2020-07-30 17:14:14,776 - movie_logger - INFO - 최신순 클릭
+2020-07-30 17:14:14,974 - movie_logger - INFO - 현재 페이지 : 1
