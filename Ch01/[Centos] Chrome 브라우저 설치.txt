@@ -1,0 +1,17 @@
+# 리눅스 환경 실행할때 리눅스에 크롬 설치할것
+1.크롬 repo 파일생성
+#  vi /etc/yum.repos.d/google-chrome.repo 
+
+[google-chrome] 
+name=google-chrome 
+baseurl=http://dl.google.com/linux/chrome/rpm/stable/$basearch 
+enabled=1 
+gpgcheck=1 
+gpgkey=https://dl-ssl.google.com/linux/linux_signing_key.pub 
+
+2.크롬설치
+#  yum install -y google-chrome-stable 
+
+3.크롬 버전확인
+#  google-chrome --version 
+Google Chrome 62.0.3202.94
